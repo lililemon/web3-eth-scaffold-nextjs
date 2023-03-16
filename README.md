@@ -1,4 +1,4 @@
-# Next.js Starter
+# Next.js Starter...
 
 A lightweight and minimal starter for building web applications with Next.js.
 
